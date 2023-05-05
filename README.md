@@ -1,4 +1,4 @@
-# telegramchannellink
+# Welcome to AFC
 
 
-[![My Banner](/afclogo.jpg)](https://t.me/afc_main)
+[![CLICK HERE](/afclogo.png)](https://t.me/afc_main)
