@@ -1,4 +1,4 @@
 # telegramchannellink
 
 
-[![My Banner](/image.jpg)](https://t.me/afc_main)
+[![My Banner](/afclogo.jpg)](https://t.me/afc_main)
