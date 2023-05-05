@@ -1,15 +1,37 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Welcome to AFC Family</title>
+    <title>My Website</title>
+    <style>
+      .container {
+        position: relative;
+        text-align: center;
+      }
+      .button {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        background-color: #4CAF50;
+        border: none;
+        color: white;
+        padding: 12px 24px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        border-radius: 5px;
+        cursor: pointer;
+      }
+    </style>
   </head>
   <body>
-    <a href="https://t.me/afc_main">
-      <img src="afclogo.png" alt="Brand Logo">
-    </a>
-    <br>
-    <a href="https://t.me/afc_main">
-      <button>Click here to Join</button>
-    </a>
+    <div class="container">
+      <a href="https://t.me/afc_main">
+         <img src="afclogo.png" alt="Brand Logo">
+      </a>
+      <a href="https://t.me/afc_main" class="button">Join my Telegram channel</a>
+    </div>
   </body>
 </html>
+
